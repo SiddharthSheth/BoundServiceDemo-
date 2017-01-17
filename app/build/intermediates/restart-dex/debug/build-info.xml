@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="21662348986559"
+    token="871918820186986822"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="257" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="28" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="9742181376470"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="19807180516296"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="19874010631385"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="21662348986559"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

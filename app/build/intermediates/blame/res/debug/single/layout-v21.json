@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

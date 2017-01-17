@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/comp-1/Documents/LNProjects/Live/Tutor/BoundServiceDemo/app/src/debug/jniLibs"/></dataSet></merger>
